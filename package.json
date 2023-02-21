@@ -1,7 +1,8 @@
 {
+  "homepage": "https://igorpaluch.github.io/Javascript-plane-seats-reservation/",
   "name": "js-plane-seats",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
