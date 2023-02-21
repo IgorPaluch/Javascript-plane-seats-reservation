@@ -1,0 +1,19 @@
+{
+  "name": "js-plane-seats",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "sass": "^1.58.3",
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
